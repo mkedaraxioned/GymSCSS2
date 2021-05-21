@@ -4,4 +4,7 @@ assets/scss/style.scss
 assets/scss/components/
 assets/scss/colors.scss
 assets/scss/abstracts/_variables.scss
-assets/scss/abstracts/_funtions.scss
+assets/scss/abstracts/_functions.scss
+assets/scss/SASS.txt
+assets/scss/layouts/_forms.scss
+assets/scss/layouts/_sidebar.scss
